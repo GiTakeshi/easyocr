@@ -4,6 +4,7 @@ import os
 import matplotlib.pyplot as plt
 import pytesseract
 import cv2
+
 import easyocr
 
 SAVING_FRAMES_PER_SECOND = 10
